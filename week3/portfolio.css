@@ -1,0 +1,26 @@
+.mainheader{
+  font-family: helvetica;
+  font-weight: lighter;
+  color: purple;
+
+}
+.subheader{
+  font-family: helvetica;
+  font-weight: lighter;
+  line-height: 0px;
+}
+.belowsub{
+  font-family: helvetica;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  line-height: 0px;
+}
+#regular {
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+li :not(a) {
+  background-color: green;
+}
